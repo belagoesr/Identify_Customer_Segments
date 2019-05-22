@@ -1,6 +1,6 @@
 # Identify_Customer_Segments
 
-In this project, two datasets from Bertelsmann partners AZ Direct and Arvato Financial Solutions are analysed, one with 
+In this project, two datasets from Bertelsmann partners AZ Direct and Arvato Financial Solutions are analyzed, one with 
 demographic information about the people of Germany, and one with that same information for customers of a mail-order sales 
 company. 
 
